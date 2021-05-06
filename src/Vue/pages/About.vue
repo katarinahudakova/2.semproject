@@ -51,7 +51,7 @@
           data-aos-duration="1000"
         >
           <video style="max-width:50%; max-height:auto" controls>
-            <source src="" type="video/mp4">
+            <source src="../../assets/images/Katarina_Hudakova_videoCV.mp4" type="video/mp4">
           </video>
 
         </div>
