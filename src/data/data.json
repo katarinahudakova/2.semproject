@@ -1,0 +1,285 @@
+{
+  "main": {
+    "name": {
+        "first": "Katarína",
+        "last": "Hudáková"
+    },
+    "logo": true,
+   "titles": [
+        "Multimedia designer", 
+        "Graphic designer",
+        "UX/UI designer",
+        "Web designer"
+    ],
+    "headings": {
+      "about": "About",
+      "skills": "Skills",
+      "projects": "Projects",
+      "contact": "Contact"
+    }
+  },
+    "about": {
+      "bio": "I am a creative and motivated multimedia designer with a strong background in design, programming and UX/UI experience. I have experience in designing, testing and analysing process. I enjoy work with others to acheieve the best results and give customers the best product. My strength is that I do my work conscientiously and I tighten the details to the end. Enjoy my portfolio profile"
+    },
+    "skills": {
+      "defaultFilter": "graphics", 
+      "skillList":[
+          {
+            "title": "Adobe After Effects",
+            "image": "after-effects.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "Adobe XD",
+            "image": "experience.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "Adobe Illustrator",
+            "image": "illustrator.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "Adobe InDesign",
+            "image": "indesign.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "Adobe Premiere Pro",
+            "image": "premier.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "Adobe Photoshop",
+            "image": "photoshop.png",
+            "filter": "graphics"
+          },
+          
+          {
+            "title": "Adobe Lightroom",
+            "image": "lightroom.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "MAXON Cinema 4D",
+            "image": "cinema4d.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "Corel DRAW",
+            "image": "crd.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "Corel Photo-Paint",
+            "image": "photopaint.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "Autodesk Inventor",
+            "image": "inventor.png",
+            "filter": "graphics"
+          },
+          {
+            "title": "Autodesk AutoCAD",
+            "image": "autocad.png",
+            "filter": "graphics"
+          },
+          
+          {
+            "title": "C",
+            "image": "c.png",
+            "filter": "programming"
+          },
+          {
+            "title": "HTML",
+            "image": "html.png",
+            "filter": "programming"
+          },
+          {
+            "title": "Vue-JS",
+            "image": "vue-logo.png",
+            "filter": "programming"
+          },
+          {
+            "title": "Cisco Packet Tracer",
+            "image": "cisco.png",
+            "filter": "programming"
+          },
+          {
+            "title": "C#",
+            "image": "hashtag.png",
+            "filter": "programming"
+          },
+          {
+            "title": "CSS",
+            "image": "css.png",
+            "filter": "programming"
+          },
+          {
+            "title": "Java Script",
+            "image": "java-script.png",
+            "filter": "programming"
+          },
+          {
+            "title": "MySQL",
+            "image": "mysql.png",
+            "filter": "programming"
+          },
+          {
+            "title": "Python",
+            "image": "python.png",
+            "filter": "programming"
+          },
+          {
+            "title": "PHP",
+            "image": "php.png",
+            "filter": "programming"
+          },
+          {
+            "title": "Java",
+            "image": "java.png",
+            "filter": "programming"
+          },          
+          {
+            "title": "MS Office",
+            "image": "office.png",
+            "filter": "programming"
+          }
+    ]
+  },
+"portfolio": {
+  "defaultFilter": "posters",
+  "projects": [
+    {
+      "title": "Summer fruit composition",
+      "description": "",
+      "image": "poster1.png",
+      "filter": "posters"
+        },
+    {
+      "title": "Encouraging school poster for new international students",
+      "description": "",
+      "image": "poster2.jpg",
+      "filter": "posters"
+    },
+    {
+      "title": "Encouraging school poster for new international students",
+      "description": "",
+      "image": "poster3.jpg",
+      "filter": "posters"
+    },
+
+    {
+      "title": "Joker",
+      "description": "Illustration created in Adobe Illustrator",
+      "image": "horror.png",
+      "filter": "illustrations"
+    },
+    {
+      "title": "Summer Sunset",
+      "description": "Illustration created in Adobe Illustrator",
+      "image": "sunset.png",
+      "filter": "illustrations"
+    },
+    {
+      "title": "Sea wave, surf and sun",
+      "description": "Illustration created in Adobe Illustrator as an illusion of wave and hand",
+      "image": "wave.png",
+      "filter": "illustrations"
+    },
+    {
+      "title": "Sea plants",
+      "description": "Illustration created in Adobe Illustrator for dripsea.org website",
+      "image": "plants3_katka.png",
+      "filter": "illustrations"
+    },
+    {
+      "title": "Iceberg",
+      "description": "Illustration created in Adobe Illustrator through polygons",
+      "image": "iceberg.png",
+      "filter": "illustrations"
+    },
+    {
+      "title": "Arctic animals",
+      "description": "Illustrations created in Adobe Illustrator through polygons. Created for website dripsea.org",
+      "image": "4in1.png",
+      "filter": "illustrations"
+    },
+
+    {
+      "title": "Field and forest",
+      "description": "Illustration created in Adobe Illustrator. Illustration was created as a background for school project game for 7-kanten theater.",
+      "image": "field.png",
+      "filter": "backgrounds"
+    },
+    {
+      "title": "Inside a tree trunk",
+      "description": "Illustration created in Adobe Illustrator. Illustration was created as a background for school project game for 7-kanten theater.",
+      "image": "tree.png",
+      "filter": "backgrounds"
+    },
+    {
+      "title": "Field",
+      "description": "Illustration created in Adobe Illustrator. Illustration was created as a background for school project game for 7-kanten theater.",
+      "image": "sky.png",
+      "filter": "backgrounds"
+    },
+
+    {
+      "title": "Dripsea",
+      "description": "The website was created as an exam school project. It was created in HTML, CSS and JS languages. You can look at website on dripsea.org",
+      "video": "dripsea.mp4",
+      "filter": "websites"
+    },
+    {
+      "title": "Apple e-shop",
+      "description": "School project with apple products created in PHP language, CSS & HTML. The website is not active on domain.",
+      "video": "apple_shop.mp4",
+      "filter": "websites"
+    },
+    {
+      "title": "Graphic design trends in 2021",
+      "description": "Prototype of website in Adobe XD.",
+      "video": "xd.mp4",
+      "filter": "websites"
+    }
+  ]
+},
+    "contact":{
+      "formTitle": "Send Me A Message",
+      "formEndPoint": "https://app.99inbound.com/api/e/4cUN8zjc",
+      "city": "Esbjerg, Denmark",
+      "email": "katarina.hudakova85@gmail.com",
+      "phone1": "Slovakia: +(421) 944 231 861",
+      "phone2": "Denmark: +(45) 50 20 86 52",
+      "form": true,
+      
+      "social": [
+          {
+            "name": "GitHub",
+            "url": "https://github.com/katarinahudakova/portfolio",
+            "faClass": "fab fa-github"
+          },
+          {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/katar%C3%ADna-h-656473176/",
+            "faClass": "fab fa-linkedin"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/Katka.Hudakova",
+            "faClass": "fab fa-facebook"
+          },
+          {
+            "name": "Instagram",
+            "url": "http://instagram.com/hudakova.katka",
+            "faClass": "fab fa-instagram"
+          }
+        ]
+      },
+  "footer": {
+    "copyrightText": "All Rights Reserved."
+  }
+
+}
